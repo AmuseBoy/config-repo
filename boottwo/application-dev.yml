@@ -1,3 +1,6 @@
+management:
+  security:
+    enabled: false #默认开通了安全认证
 server:
   port: 8091
 hello:

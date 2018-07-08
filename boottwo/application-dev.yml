@@ -1,4 +1,4 @@
 server:
   port: 8091
 hello:
-  world: 我在写代码呀
+  world: 不想写代码
